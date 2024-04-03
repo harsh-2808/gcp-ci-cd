@@ -1,0 +1,30 @@
+.AppName{
+    color: blue;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.addBtn{
+    background-color: violet;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    border: 2px solid;
+
+}
+
+.deleteBtn{
+    background-color: grey;
+    color:black;
+    border: 2px solid;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card{
+    margin: 10px;
+    padding: 10px;
+}
+
+.yourNotes{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+    padding: 10px;
+}
