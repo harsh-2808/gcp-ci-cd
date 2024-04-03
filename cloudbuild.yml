@@ -20,5 +20,6 @@ steps:
   - 'us-central1'  # You can change this if you want to deploy to a different region
   - '--platform'
   - 'managed'
-  # Optional: if you want to allow unauthenticated access
   - '--allow-unauthenticated'
+  - '--port'
+  - '8080'
